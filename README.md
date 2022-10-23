@@ -1,3 +1,3 @@
-### Curso sobre TDD
+## Curso sobre TDD
 
-## Alura - TDD e Java: testes automatizados com JUnit
+### Alura - TDD e Java: testes automatizados com JUnit
